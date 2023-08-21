@@ -17,7 +17,7 @@ public class Main {
         System.out.println(predicate.test(8));
         System.out.println(predicate1.test(-12));
 
-//        ==============
+//        ===============
 
         Consumer<String>consumer = new Consumer<String>() {
             @Override
